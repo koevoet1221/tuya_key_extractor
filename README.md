@@ -12,4 +12,4 @@ As root move to the following folder, where $HOME is the home folder of your use
 ```
 $HOME/.local/share/waydroid/data/data/com.tuya.smartlife/shared_prefs
 ```
-The preferences_global_key file with a bunch of numbers at is the file containing the keys.
+The preferences_global_key file with a bunch of numbers in the file name is the file containing the keys.
